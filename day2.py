@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+"""Advent of Code 2021 Day 02"""
 
 if __name__ == '__main__':
     with open("./inputs/day2.txt", 'r') as file:
