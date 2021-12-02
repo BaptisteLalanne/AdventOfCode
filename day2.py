@@ -3,7 +3,6 @@ if __name__ == '__main__':
     with open("./inputs/day2.txt", 'r') as file:
         data = [line.strip().split(" ") for line in file.readlines()]
         data = [(x, int(y)) for [x, y] in data]
-    print(data)
     horizontal = 0
     vertical = 0
     aim = 0
@@ -19,4 +18,5 @@ if __name__ == '__main__':
         elif move == 'down':
             vertical += measure
             aim += measure
-    print("Depth (part1)",horizontal*vertical, "Depth (part2): ", depth*horizontal)
+    print("Depth (part1): ", horizontal*vertical)
+    print("Depth (part2): ", depth*horizontal)
