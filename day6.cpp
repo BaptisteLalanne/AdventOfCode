@@ -1,9 +1,6 @@
 #include <cmath>
 #include <fstream>
 #include <iostream>
-#include <vector>
-#include <algorithm>
-#include <numeric>
 /* Advent of Code 2021 Day 06  */
 
 int main(int argc, char *argv[]) {
@@ -11,8 +8,6 @@ int main(int argc, char *argv[]) {
     std::string line;
     std::fstream file(input);
 
-
-    std::unordered_map<std::string ,long> grid;
     std::getline(file, line);
     long lanternFish[9];
     std::size_t start = 0;
