@@ -4,4 +4,5 @@
 !*.cpp
 !*.txt
 !*.py
+!/inputs
 !Makefile
