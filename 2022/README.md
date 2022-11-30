@@ -1,1 +1,18 @@
-My participation of AoC 2022, I wish to learn Go with it but I might use my old C++ friend
+# About
+This is my participation in the AoC 2022. I wish to learn Go starting from 0 with it but I might use my old C++ friend if the learning part takes too much time.
+
+# Prerequiste
+- Go 1.18+
+
+# How to use
+
+To execute:
+```bash
+go run main.go -part 1
+go run main.go -part 2
+```
+
+To test the example input: 
+```bash
+go test
+```
