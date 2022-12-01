@@ -1,3 +1,6 @@
 # About
-This is my participation in the AoC 2021. I started with Python for the speed but I don't like this programming language. Let's use something more optimized, we are not in a rush :)
+This is my participation in the AoC 2021.  
+C++ is my main langage, I will use it for this year. I love its running time's speed. 
+
+Might change for next year ;)
 
