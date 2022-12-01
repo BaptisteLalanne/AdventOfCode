@@ -16,3 +16,10 @@ To test the example input:
 ```bash
 go test
 ```
+
+To benchmark
+```bash
+go test -bench=.
+# You can define the running time of the benchmark with
+go test -bench=. -benchtime=5s
+```

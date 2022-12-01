@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"os/exec"
+	"runtime"
 	"strconv"
 )
 
@@ -12,8 +13,9 @@ import (
 * Thanks for Alex Chao to share his utils AoC functions
 * I just tweaked a little bit some of them.
 **/
-func ToClipboard(text string, arch string) error {
+func ToClipboard(text string) error {
 	var command *exec.Cmd
+	arch := runtime.GOOS
 	// Mac "OS"
 	if arch == "darwin" {
 		command = exec.Command("pbcopy")
