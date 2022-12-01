@@ -16,7 +16,7 @@ No benchmark done this year
 Day 1 - ?   
 [See more](2022) 
 ## Benchmark 
-| Day | Parsing (ns) | Part1 (ns) | Part2 (ns) |
-| :-- |:------------ | :--------- | :--------- |
-| 1 | 39060 | 1.980 | 25.71 | 
+| Day  | Part1 (µs) | Part2 (µs) |
+| :-- | :--------- | :--------- |
+| 1  | 142.375 | 162.765 | 
 

@@ -1,6 +1,5 @@
 # About
-This is my participation in the AoC 2022. I wish to learn Go starting from 0 with it but I might use my old C++ friend if the learning part takes too much time.
-
+This is my participation in the AoC 2022. I wish to learn Go starting from 0 with it :)
 # Prerequiste
 - Go 1.18+
 
