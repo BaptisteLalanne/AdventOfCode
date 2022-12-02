@@ -1,9 +1,8 @@
 # About
 This is my participation in the AoC. 
-I don't impose anything and do it mainly for fun/try a new langage.
+I don't impose myself anything and do it mainly for fun/try a new langage.
 
 I will often prefer an optimized solution than a quick solution to implement.
-
 
 
 # 2021 (C++)
@@ -19,4 +18,6 @@ Day 1 - ?
 | Day  | Part1 (µs) | Part2 (µs) |
 | :-- | :--------- | :--------- |
 | 1  | 142.375 | 162.765 | 
+| 2  | 228.362 | 266.015 | 
+
 

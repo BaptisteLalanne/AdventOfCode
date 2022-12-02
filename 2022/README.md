@@ -18,7 +18,7 @@ go test
 
 To benchmark
 ```bash
-go test -bench=.
+go test -bench=. -benchmem
 # You can define the running time of the benchmark with
-go test -bench=. -benchtime=5s
+go test -bench=. -benchtime=5s -benchmem
 ```
