@@ -6,18 +6,18 @@ I will often prefer an optimized solution than a quick solution to implement.
 
 
 # 2021 (C++)
-Day 1 - 7  
 [See more](2021)
 ## Benchmark
 No benchmark done this year
 
 # 2022 (Go)
-Day 1 - ?   
+Day 1 - 3   
 [See more](2022) 
 ## Benchmark 
 | Day  | Part1 (µs) | Part2 (µs) |
 | :-- | :--------- | :--------- |
 | 1  | 142.375 | 162.765 | 
 | 2  | 228.362 | 266.015 | 
+| 3  | 398.651 | 472.893 | 
 
 
