@@ -5,7 +5,7 @@ No benchmark done this year
 
 # 2022 (Go)
 ![Unit tests](https://github.com/BaptisteLalanne/AdventOfCode/actions/workflows/ci.yml/badge.svg)  
-Day 1 - 10   
+Day 1 - 11   
 [See more](2022) 
 ## Benchmark 
 Linux - AMD64  
@@ -22,6 +22,7 @@ Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
 | 8  | 107.517 | 544.896 | 
 | 9  | 1277.552 | 1366.653 | 
 | 10  | 20.277 | 22.079 | 
+| 11  | 30.065 | 19598.393 | 
 
 
 
